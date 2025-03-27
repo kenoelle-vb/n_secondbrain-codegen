@@ -61,7 +61,7 @@ st.markdown(hide_st_style, unsafe_allow_html=True)
 st.markdown("""
     <style>
     [data-testid="stTextArea"] {
-        color: #C8ACD6;
+        color: #FFFFFF;
     }
     </style>
     """, unsafe_allow_html=True)
@@ -89,29 +89,29 @@ st.markdown("""
 st.markdown("""
     <style>
     .stExpander {
-        background-color: #C8ACD6;
+        background-color: #FFFFFF;
         border-radius: 10px;
     }
     
     .stExpander > details {
-        background-color: #C8ACD6;
+        background-color: #FFFFFF;
         border-radius: 10px;
     }
     
     .stExpander > details > summary {
-        background-color: #C8ACD6;
+        background-color: #FFFFFF;
         border-radius: 10px 10px 0 0;
         padding: 10px;
     }
     
     .stExpander > details > div {
-        background-color: #C8ACD6;
+        background-color: #FFFFFF;
         border-radius: 0 0 10px 10px;
         padding: 10px;
     }
     
     .stCheckbox {
-        background-color: #C8ACD6;
+        background-color: #FFFFFF;
         border-radius: 5px;
         padding: 5px;
     }
