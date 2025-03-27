@@ -1,7 +1,7 @@
 [theme]
 primaryColor = "#2E236C"  # Medium slate blue (a bluish purple)
 backgroundColor = "#FFFFFF"  # White
-secondaryBackgroundColor = "#433D8B"  # Light cyan (a light bluish color)
+secondaryBackgroundColor = "#C8ACD6"  # Light cyan (a light bluish color)
 textColor = "#17153B"  # Gray
 font = "sans-serif" 
 
